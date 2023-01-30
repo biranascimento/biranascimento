@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @biranascimento
-- 👀 I’m interested in flexbox + mobile
+- 👀 I’m interested in flexbox + mobile + AI
 - 🌱 I’m currently learning about ☝️
 - 💞️ I’m looking to collaborate on 🤔 as a tester, maybe?
 - 📫 How to reach me @birasrd @nascimento_bira
